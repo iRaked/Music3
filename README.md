@@ -9,18 +9,11 @@ plataforma Spotune. Optimizado para Vercel y GitHub Pages.
 ------------------------------------------------------------
 [ 📊 INVENTARIO DE RECURSOS ]
 ------------------------------------------------------------
-SECCIÓN             GÉNERO              TOTAL TRACKS
-------------------------------------------------------------
-Asfalto Urbano      Rock Urbano         88
-Skañol              Ska en Español      35
-Zona Ska            Ska Internacional   22
-La Cantina          Regional/Ranchera   105
-------------------------------------------------------------
 TOTAL GENERAL                           250 TRACKS
 ------------------------------------------------------------
 ALMACENAMIENTO:
 > CARIBE 360: 650MB
-> CANTINA:    460MB
+> CANTINA: 460MB
 
 ------------------------------------------------------------
 [ 📁 ESTRUCTURA DE ALMACENAMIENTO ]
